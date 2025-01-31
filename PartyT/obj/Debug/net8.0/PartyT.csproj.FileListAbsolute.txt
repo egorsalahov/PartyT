@@ -1,0 +1,14 @@
+C:\Users\egors\source\repos\PartyT\PartyT\bin\Debug\net8.0\PartyT.exe
+C:\Users\egors\source\repos\PartyT\PartyT\bin\Debug\net8.0\PartyT.deps.json
+C:\Users\egors\source\repos\PartyT\PartyT\bin\Debug\net8.0\PartyT.runtimeconfig.json
+C:\Users\egors\source\repos\PartyT\PartyT\bin\Debug\net8.0\PartyT.dll
+C:\Users\egors\source\repos\PartyT\PartyT\bin\Debug\net8.0\PartyT.pdb
+C:\Users\egors\source\repos\PartyT\PartyT\obj\Debug\net8.0\PartyT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egors\source\repos\PartyT\PartyT\obj\Debug\net8.0\PartyT.AssemblyInfoInputs.cache
+C:\Users\egors\source\repos\PartyT\PartyT\obj\Debug\net8.0\PartyT.AssemblyInfo.cs
+C:\Users\egors\source\repos\PartyT\PartyT\obj\Debug\net8.0\PartyT.csproj.CoreCompileInputs.cache
+C:\Users\egors\source\repos\PartyT\PartyT\obj\Debug\net8.0\PartyT.dll
+C:\Users\egors\source\repos\PartyT\PartyT\obj\Debug\net8.0\refint\PartyT.dll
+C:\Users\egors\source\repos\PartyT\PartyT\obj\Debug\net8.0\PartyT.pdb
+C:\Users\egors\source\repos\PartyT\PartyT\obj\Debug\net8.0\PartyT.genruntimeconfig.cache
+C:\Users\egors\source\repos\PartyT\PartyT\obj\Debug\net8.0\ref\PartyT.dll
